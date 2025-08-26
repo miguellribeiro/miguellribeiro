@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="120px" src="https://raw.githubusercontent.com/miguellribeiro/miguellribeiro/main/assets/logo.svg" alt="Logo pessoal" />
+  <img width="120px" src="https://raw.githubusercontent.com/miguellribeiro/miguellribeiro/main/assets/Brand.svg" alt="Logo pessoal" />
   <h1>Olá, eu sou Miguel Antonio Pereira Ribeiro 👋</h1>
   <p>Estudante de Análise e Desenvolvimento de Sistemas | Analista e Desenvolvedor Full-Stack</p>
 </div>
